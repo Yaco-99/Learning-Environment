@@ -1,0 +1,43 @@
+body {
+  font-family: Helvetica, sans-serif;
+  padding: 21px;
+  color: #05a5f0;
+}
+p {
+  font-size: 16px;
+  line-height: 21px;
+  margin-bottom: 21px;
+  margin-left: auto;
+  margin-right: auto;
+}
+blockquote {
+  text-indent: -0.8em;
+  font-size: 12px;
+}
+span {
+  font-variant: small-caps;
+}
+h1 {
+  font-style: italic;
+  font-size: 48px;
+}
+h2 {
+  text-transform: uppercase;
+  font-size: 36px;
+}
+a {
+  color: #eb946e;
+  text-decoration: underline;
+}
+ul {
+  margin: auto;
+  padding: 10px;
+  margin-left: 10px;
+}
+li {
+  padding: 10px;
+}
+img {
+  display: block;
+  margin: auto;
+}
