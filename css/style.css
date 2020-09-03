@@ -37,6 +37,12 @@ ul {
 li {
   padding: 10px;
 }
+.first {
+  padding: 0;
+}
+.first h3 {
+  margin-bottom: 0;
+}
 img {
   display: block;
   margin: auto;
